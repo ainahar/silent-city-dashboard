@@ -20,3 +20,9 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python probe_score.py data/mock_incidents.csv
+
+## License
+MIT — prototype only.
+
+---
+Note: This repository contains prototype/demo code for research and policy discussion. It is not intended for production use.
